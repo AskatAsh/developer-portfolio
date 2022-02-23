@@ -13,19 +13,33 @@ h1{
 }
 .container{
   display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
 }
 .half{
   width: 50%;
-  padding: 50px;
 }
-
-.half>img{
-  width: 65%;
-  box-sizing: border-box;
+.first-half{
+  padding-right: 50px;
+}
+.second-half{
+  width:25%;
+  height: 70vh;
+  background-image: url("/img/My\ Personal\ Image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   box-shadow: 5px 5px 8px rgb(207, 194, 255);
   border-radius: 15px;
 }
+/* .half>img{
+  
+  box-sizing: border-box;
+  box-shadow: 5px 5px 8px rgb(207, 194, 255);
+  border-radius: 15px;
+} */
 .hire-me{
+  margin-top: 10px;
   letter-spacing: 0.15em;
   border: none;
   color: #fff;
