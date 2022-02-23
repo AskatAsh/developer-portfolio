@@ -1,8 +1,12 @@
 body{
   font-family: 'Lato', sans-serif;
   color: #333;
+  margin: 0;
+  padding: 0;
 }
 h1{
+  margin: 0;
+  margin-bottom: 30px;
   font-size: 3em;
   font-weight: 900;
   word-spacing: 0.25em;
@@ -27,7 +31,7 @@ h1{
 }
 .second-half{
   width:25%;
-  height: 70vh;
+  height: 420px;
   background-image: url("/img/My\ Personal\ Image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -50,4 +54,13 @@ h1{
   font-weight: bold;
   border-radius: 5px;
   cursor: pointer;
+}
+.right-half{
+  padding: 0;
+}
+.left-half{
+  margin-right: 50px;
+}
+.spacer{
+  height: 150px;
 }
