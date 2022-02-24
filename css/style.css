@@ -73,19 +73,16 @@ h1{
   text-align: center;
 }
 .exp-section{
-  margin-top: 70px;
+  margin-top: 60px;
 }
 .exp{
 width: 40%;
+background-color: #ffffff;
 }
-.left-exp{
-  
-  background-color: #ffffff;
-  margin-right: 30px;
+.left-exp,.right-exp{
+  margin: 15px;
 }
-.right-exp{
-  background-color: #ffffff;
-}
+
 .radius-15{
   border-radius: 15px;
   padding: 25px;
