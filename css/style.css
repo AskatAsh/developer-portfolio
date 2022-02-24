@@ -16,7 +16,10 @@ h1{
 .color-text{
   color: #4c4cad;
 }
-.container{
+/* .flex-box{
+  display: flex;
+} */
+.container,.flex-box{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -65,4 +68,30 @@ h1{
 }
 .spacer{
   height: 150px;
+}
+.center{
+  text-align: center;
+}
+.exp-section{
+  margin-top: 70px;
+}
+.exp{
+width: 40%;
+}
+.left-exp{
+  
+  background-color: #ffffff;
+  margin-right: 30px;
+}
+.right-exp{
+  background-color: #ffffff;
+}
+.radius-15{
+  border-radius: 15px;
+  padding: 25px;
+  border-left: 3px solid #4c4cad80;
+  border-bottom: 3px solid #4c89ad80;
+}
+.p-tb-10{
+  padding: 0 10px;
 }
