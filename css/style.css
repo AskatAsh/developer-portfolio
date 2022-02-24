@@ -39,7 +39,7 @@ h1{
   background-image: url("../img/My\ Personal\ Image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  box-shadow: 5px 5px 8px rgb(207, 194, 255);
+  box-shadow: 4px 4px 5px #4c4cad80;
   border-radius: 15px;
 }
 /* .half>img{
