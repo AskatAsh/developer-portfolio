@@ -36,7 +36,7 @@ h1{
 .second-half{
   width:25%;
   height: 420px;
-  background-image: url("/img/My\ Personal\ Image.jpg");
+  background-image: url("../img/My\ Personal\ Image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 5px 5px 8px rgb(207, 194, 255);
@@ -63,7 +63,7 @@ h1{
   padding: 0;
 }
 .left-half{
-  background-image: url("/img/chasing\ the\ dream.jpg");
+  background-image: url("../img/chasing\ the\ dream.jpg");
   margin-right: 50px;
 }
 .spacer{
