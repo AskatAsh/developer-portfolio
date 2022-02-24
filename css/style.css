@@ -95,3 +95,9 @@ margin: 15px;
 .p-tb-10{
   padding: 0 10px;
 }
+.footer{
+  width: 100%;
+  background: linear-gradient(45deg, #4c4cad, #4c89ad);
+  padding: 20px;
+  color: #fff;
+}
